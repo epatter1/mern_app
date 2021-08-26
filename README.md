@@ -1,6 +1,6 @@
 # React MERN Stack App
 
-React MERN Stack CRUD app - frontend and backend with React, Node, Express, mongoDB.
+React MERN Stack CRUD app - frontend and backend with React, Node, Express, MongoDB.
 ## How to run it
 
 Running this command will clone the repo down to your machine
@@ -14,7 +14,7 @@ Will install all the necessary modules to get the app running on your local mach
 ### `npm i nodemon`
 Installing nodemon allows auto-updates when changes are saved.
 
-### cd to the  `/backend directory`
+### cd to the  `/backend` directory
 
 ### Run `nodemon server`
 Will start the server on port 4000
@@ -22,4 +22,4 @@ Will start the server on port 4000
 ### open another terminal and run `npm start`
 Will serve the UI at port 3000
 
-Open [http://localhost:3000/](http://localhost:3000/) to view the Record360 client page.\
+Open [http://localhost:3000/](http://localhost:3000/) to view the Record360 client page.
