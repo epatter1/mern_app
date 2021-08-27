@@ -8,7 +8,7 @@ Running this command will clone the repo down to your machine
 
 ## In the project directory, you can run:
 
-### Run `npm i` 
+### `npm i` 
 Will install all the necessary modules to get the app running on your local machine
 
 ### `npm i nodemon`
